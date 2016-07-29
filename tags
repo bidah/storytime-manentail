@@ -1,0 +1,154 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BlogConstraint	lib/storytime/constraints/blog_constraint.rb	/^    class BlogConstraint$/;"	c	class:Storytime.Constraints
+BlogHomepageConstraint	lib/storytime/constraints/blog_homepage_constraint.rb	/^    class BlogHomepageConstraint$/;"	c	class:Storytime.Constraints
+CLI	lib/storytime/cli.rb	/^  class CLI < Thor$/;"	c	class:Storytime
+CLI	lib/storytime/cli/install.rb	/^  class CLI < Thor$/;"	c	class:Storytime
+ClassMethods	lib/generators/storytime/views_generator.rb	/^      module ClassMethods$/;"	m	class:Storytime.Generators.ViewPathTemplates
+ClassMethods	lib/storytime/concerns/has_versions.rb	/^      module ClassMethods$/;"	m	class:Storytime.Concerns
+ClassMethods	lib/storytime/concerns/storytime_user.rb	/^      module ClassMethods$/;"	m	class:Storytime.Concerns.StorytimeUser
+Concerns	lib/storytime/concerns/controller_content_for.rb	/^  module Concerns$/;"	m	class:Storytime
+Concerns	lib/storytime/concerns/current_site.rb	/^  module Concerns$/;"	m	class:Storytime
+Concerns	lib/storytime/concerns/has_versions.rb	/^  module Concerns$/;"	m	class:Storytime
+Concerns	lib/storytime/concerns/storytime_user.rb	/^  module Concerns$/;"	m	class:Storytime
+Constraints	lib/storytime/constraints/blog_constraint.rb	/^  module Constraints$/;"	m	class:Storytime
+Constraints	lib/storytime/constraints/blog_homepage_constraint.rb	/^  module Constraints$/;"	m	class:Storytime
+Constraints	lib/storytime/constraints/page_constraint.rb	/^  module Constraints$/;"	m	class:Storytime
+Constraints	lib/storytime/constraints/page_homepage_constraint.rb	/^  module Constraints$/;"	m	class:Storytime
+ControllerContentFor	lib/storytime/concerns/controller_content_for.rb	/^    module ControllerContentFor$/;"	m	class:Storytime.Concerns
+ControllerHelpers	lib/storytime/controller_helpers.rb	/^  module ControllerHelpers$/;"	m	class:Storytime
+CurrentSite	lib/storytime/concerns/current_site.rb	/^    module CurrentSite$/;"	m	class:Storytime.Concerns
+Engine	lib/storytime/engine.rb	/^  class Engine < ::Rails::Engine$/;"	c	class:Storytime
+Generators	lib/generators/storytime/install_generator.rb	/^  module Generators$/;"	m	class:Storytime
+Generators	lib/generators/storytime/views_generator.rb	/^  module Generators$/;"	m	class:Storytime
+Generators	lib/storytime/generators/initializer.rb	/^  module Generators$/;"	m	class:Storytime
+HasVersions	lib/storytime/concerns/has_versions.rb	/^    module HasVersions$/;"	m	class:Storytime.Concerns
+Importer	lib/storytime/importers/importer.rb	/^    class Importer$/;"	c	class:Storytime.Importers
+Importers	lib/storytime/importers/importer.rb	/^  module Importers$/;"	m	class:Storytime
+Importers	lib/storytime/importers/wordpress.rb	/^  module Importers$/;"	m	class:Storytime
+Initializer	lib/storytime/generators/initializer.rb	/^    class Initializer < Thor::Group$/;"	c	class:Storytime.Generators
+Install	lib/storytime/cli/install.rb	/^    class Install$/;"	c	class:Storytime.CLI
+InstallGenerator	lib/generators/storytime/install_generator.rb	/^    class InstallGenerator < Rails::Generators::Base$/;"	c	class:Storytime.Generators
+LocalInstanceMethods	lib/storytime/concerns/storytime_user.rb	/^      module LocalInstanceMethods$/;"	m	class:Storytime.Concerns.StorytimeUser
+Migrators	lib/storytime/migrators/v1.rb	/^  module Migrators$/;"	m	class:Storytime
+MysqlFulltextSearchAdapter	lib/storytime/mysql_fulltext_search_adapter.rb	/^  class MysqlFulltextSearchAdapter$/;"	c	class:Storytime
+MysqlSearchAdapter	lib/storytime/mysql_search_adapter.rb	/^  class MysqlSearchAdapter$/;"	c	class:Storytime
+PageConstraint	lib/storytime/constraints/page_constraint.rb	/^    class PageConstraint$/;"	c	class:Storytime.Constraints
+PageHomepageConstraint	lib/storytime/constraints/page_homepage_constraint.rb	/^    class PageHomepageConstraint$/;"	c	class:Storytime.Constraints
+PostNotifier	lib/storytime/post_notifier.rb	/^  class PostNotifier$/;"	c	class:Storytime
+PostUrlHandler	lib/storytime/post_url_handler.rb	/^  module PostUrlHandler$/;"	m	class:Storytime
+PostgresSearchAdapter	lib/storytime/postgres_search_adapter.rb	/^  class PostgresSearchAdapter$/;"	c	class:Storytime
+Sqlite3SearchAdapter	lib/storytime/sqlite3_search_adapter.rb	/^  class Sqlite3SearchAdapter$/;"	c	class:Storytime
+Storytime	lib/generators/storytime/install_generator.rb	/^module Storytime$/;"	m
+Storytime	lib/generators/storytime/views_generator.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/cli.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/cli/install.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/concerns/controller_content_for.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/concerns/current_site.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/concerns/has_versions.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/concerns/storytime_user.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/constraints/blog_constraint.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/constraints/blog_homepage_constraint.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/constraints/page_constraint.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/constraints/page_homepage_constraint.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/controller_helpers.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/engine.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/generators/initializer.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/importers/importer.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/importers/wordpress.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/migrators/v1.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/mysql_fulltext_search_adapter.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/mysql_search_adapter.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/post_notifier.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/post_url_handler.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/postgres_search_adapter.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/sqlite3_search_adapter.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/storytime_helpers.rb	/^module Storytime$/;"	m
+Storytime	lib/storytime/version.rb	/^module Storytime$/;"	m
+StorytimeHelpers	lib/storytime/storytime_helpers.rb	/^  module StorytimeHelpers$/;"	m	class:Storytime
+StorytimeUser	lib/storytime/concerns/storytime_user.rb	/^    module StorytimeUser$/;"	m	class:Storytime.Concerns
+V1	lib/storytime/migrators/v1.rb	/^    module V1$/;"	m	class:Storytime.Migrators
+ViewPathTemplates	lib/generators/storytime/views_generator.rb	/^    module ViewPathTemplates$/;"	m	class:Storytime.Generators
+ViewsGenerator	lib/generators/storytime/views_generator.rb	/^    class ViewsGenerator < Rails::Generators::Base$/;"	c	class:Storytime
+Wordpress	lib/storytime/importers/wordpress.rb	/^    class Wordpress < Importer$/;"	c	class:Storytime.Importers
+activate_version	lib/storytime/concerns/has_versions.rb	/^      def activate_version$/;"	f	class:Storytime.Concerns.HasVersions
+add_site_id_to_autosaves	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_autosaves$/;"	F	class:Storytime.Migrators.V1
+add_site_id_to_comments	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_comments$/;"	F	class:Storytime.Migrators.V1
+add_site_id_to_media	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_media$/;"	F	class:Storytime.Migrators.V1
+add_site_id_to_posts	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_posts$/;"	F	class:Storytime.Migrators.V1
+add_site_id_to_snippets	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_snippets$/;"	F	class:Storytime.Migrators.V1
+add_site_id_to_taggings	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_taggings$/;"	F	class:Storytime.Migrators.V1
+add_site_id_to_tags	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_tags$/;"	F	class:Storytime.Migrators.V1
+add_site_id_to_versions	lib/storytime/migrators/v1.rb	/^      def self.add_site_id_to_versions$/;"	F	class:Storytime.Migrators.V1
+add_storytime_mount	lib/storytime/cli/install.rb	/^        def add_storytime_mount$/;"	f	class:Storytime.CLI.Install
+add_storytime_routes	lib/generators/storytime/install_generator.rb	/^      def add_storytime_routes$/;"	f	class:Storytime.Generators.InstallGenerator
+add_storytime_user	lib/storytime/cli/install.rb	/^        def add_storytime_user(user_class)$/;"	f	class:Storytime.CLI.Install
+application_controller_superclass	lib/storytime.rb	/^    def application_controller_superclass$/;"	f	class:Storytime
+automated	lib/storytime/cli/install.rb	/^        def automated$/;"	f	class:Storytime.CLI.Install
+check_user_model	lib/storytime/cli/install.rb	/^        def check_user_model(user_class)$/;"	f	class:Storytime.CLI.Install
+configure	lib/storytime.rb	/^    def configure$/;"	f	class:Storytime
+content_for	lib/storytime/concerns/controller_content_for.rb	/^      def content_for(name, content) # no blocks allowed yet$/;"	f	class:Storytime.Concerns.ControllerContentFor
+content_for?	lib/storytime/concerns/controller_content_for.rb	/^      def content_for?(name)$/;"	f	class:Storytime.Concerns.ControllerContentFor
+copy_initializer	lib/generators/storytime/install_generator.rb	/^      def copy_initializer$/;"	f	class:Storytime.Generators.InstallGenerator
+copy_initializer	lib/storytime/generators/initializer.rb	/^      def copy_initializer$/;"	f	class:Storytime.Generators.Initializer
+copy_migrations	lib/storytime/cli/install.rb	/^        def copy_migrations$/;"	f	class:Storytime.CLI.Install
+copy_views	lib/generators/storytime/views_generator.rb	/^      def copy_views$/;"	f	class:Storytime.Generators.ViewPathTemplates
+copy_views	lib/storytime/cli/install.rb	/^        def copy_views$/;"	f	class:Storytime.CLI.Install
+create_default_blog_for_sites	lib/storytime/migrators/v1.rb	/^      def self.create_default_blog_for_sites$/;"	F	class:Storytime.Migrators.V1
+create_user_memberships	lib/storytime/migrators/v1.rb	/^      def self.create_user_memberships$/;"	F	class:Storytime.Migrators.V1
+create_version	lib/storytime/concerns/has_versions.rb	/^      def create_version$/;"	f	class:Storytime.Concerns.HasVersions
+current_storytime_site	lib/storytime/concerns/current_site.rb	/^      def current_storytime_site(req = nil)$/;"	f	class:Storytime.Concerns.CurrentSite
+draft_content	lib/storytime/concerns/has_versions.rb	/^      def draft_content$/;"	f	class:Storytime.Concerns.HasVersions
+handle_url	lib/storytime/post_url_handler.rb	/^    def self.handle_url(options)$/;"	F	class:Storytime.PostUrlHandler
+hide!	lib/generators/storytime/views_generator.rb	/^        def hide!$/;"	f	class:Storytime.Generators.ViewPathTemplates.ClassMethods
+import!	lib/storytime/importers/wordpress.rb	/^      def import!$/;"	f	class:Storytime.Importers.Wordpress
+initialize	lib/storytime/importers/importer.rb	/^      def initialize(input_file, importer)$/;"	f	class:Storytime.Importers.Importer
+inject_storytime_mount	lib/storytime/cli/install.rb	/^        def inject_storytime_mount(mount_point)$/;"	f	class:Storytime.CLI.Install
+install	lib/storytime/cli.rb	/^    def install$/;"	f	class:Storytime.CLI
+interactive	lib/storytime/cli/install.rb	/^        def interactive$/;"	f	class:Storytime.CLI.Install
+latest_version	lib/storytime/concerns/has_versions.rb	/^      def latest_version$/;"	f	class:Storytime.Concerns.HasVersions
+matches?	lib/storytime/constraints/blog_constraint.rb	/^      def matches?(request)$/;"	f	class:Storytime.Constraints.BlogConstraint
+matches?	lib/storytime/constraints/blog_homepage_constraint.rb	/^      def matches?(request)$/;"	f	class:Storytime.Constraints.BlogHomepageConstraint
+matches?	lib/storytime/constraints/page_constraint.rb	/^      def matches?(request)$/;"	f	class:Storytime.Constraints.PageConstraint
+matches?	lib/storytime/constraints/page_homepage_constraint.rb	/^      def matches?(request)$/;"	f	class:Storytime.Constraints.PageHomepageConstraint
+migrate_db	lib/storytime/cli/install.rb	/^        def migrate_db$/;"	f	class:Storytime.CLI.Install
+options	lib/storytime/cli/install.rb	/^        def options; {}; end$/;"	f	class:Storytime.CLI.Install
+policy_class	lib/storytime/concerns/storytime_user.rb	/^            def self.policy_class$/;"	F	class:Storytime.Concerns.StorytimeUser.ClassMethods.storytime_user
+publish!	lib/storytime/concerns/has_versions.rb	/^      def publish!$/;"	f	class:Storytime.Concerns.HasVersions
+published	lib/storytime/concerns/has_versions.rb	/^      def published$/;"	f	class:Storytime.Concerns
+published=	lib/storytime/concerns/has_versions.rb	/^      def published=(val)$/;"	f	class:Storytime.Concerns.HasVersions
+published?	lib/storytime/concerns/has_versions.rb	/^      def published?$/;"	f	class:Storytime.Concerns
+search	lib/storytime/mysql_fulltext_search_adapter.rb	/^    def self.search(search_string, search_model=Storytime::Post)$/;"	F	class:Storytime.MysqlFulltextSearchAdapter
+search	lib/storytime/mysql_search_adapter.rb	/^    def self.search(search_string, search_model=Storytime::Post)$/;"	F	class:Storytime.MysqlSearchAdapter
+search	lib/storytime/postgres_search_adapter.rb	/^    def self.search(search_string, search_model=Storytime::Post)$/;"	F	class:Storytime.PostgresSearchAdapter
+search	lib/storytime/sqlite3_search_adapter.rb	/^    def self.search(search_string, search_model=Storytime::Post)$/;"	F	class:Storytime.Sqlite3SearchAdapter
+send_notifications_for	lib/storytime/post_notifier.rb	/^    def self.send_notifications_for(post_id)$/;"	F	class:Storytime.PostNotifier
+set_local_assigns	lib/generators/storytime/install_generator.rb	/^      def set_local_assigns$/;"	f	class:Storytime.Generators.InstallGenerator
+set_local_assigns	lib/storytime/generators/initializer.rb	/^      def set_local_assigns$/;"	f	class:Storytime.Generators.Initializer
+set_site_layout	lib/storytime/migrators/v1.rb	/^      def self.set_site_layout$/;"	F	class:Storytime.Migrators.V1
+setup_initializer_file	lib/storytime/cli/install.rb	/^        def setup_initializer_file(mount_point)$/;"	f	class:Storytime.CLI.Install
+show_readme	lib/generators/storytime/install_generator.rb	/^      def show_readme$/;"	f	class:Storytime.Generators.InstallGenerator
+site	lib/storytime/post_url_handler.rb	/^    def self.site(options)$/;"	F	class:Storytime.PostUrlHandler
+storytime_	lib/storytime/concerns/storytime_user.rb	/^              def storytime_#{role_name}?(site)$/;"	f	class:Storytime.Concerns.StorytimeUser.ClassMethods.storytime_user
+storytime_controller?	lib/storytime/controller_helpers.rb	/^    def storytime_controller?$/;"	f	class:Storytime.ControllerHelpers
+storytime_defaults	lib/storytime/cli/install.rb	/^        def storytime_defaults$/;"	f	class:Storytime.CLI.Install
+storytime_membership_in_site	lib/storytime/concerns/storytime_user.rb	/^        def storytime_membership_in_site(site)$/;"	f	class:Storytime.Concerns.StorytimeUser.LocalInstanceMethods
+storytime_name	lib/storytime/concerns/storytime_user.rb	/^        def storytime_name$/;"	f	class:Storytime.Concerns.StorytimeUser.LocalInstanceMethods
+storytime_role_in_site	lib/storytime/concerns/storytime_user.rb	/^        def storytime_role_in_site(site)$/;"	f	class:Storytime.Concerns.StorytimeUser.LocalInstanceMethods
+storytime_snippet	lib/storytime/storytime_helpers.rb	/^    def storytime_snippet(name)$/;"	f	class:Storytime.StorytimeHelpers
+storytime_user	lib/storytime/concerns/storytime_user.rb	/^        def storytime_user$/;"	f	class:Storytime.Concerns.StorytimeUser.ClassMethods
+storytime_user?	lib/storytime/concerns/storytime_user.rb	/^        def storytime_user?(site)$/;"	f	class:Storytime.Concerns.StorytimeUser.LocalInstanceMethods
+target_path	lib/generators/storytime/views_generator.rb	/^      def target_path$/;"	f	class:Storytime.Generators
+transfer_posts_to_blogs	lib/storytime/migrators/v1.rb	/^      def self.transfer_posts_to_blogs$/;"	F	class:Storytime.Migrators.V1
+user_class	lib/storytime.rb	/^    def user_class$/;"	f	class:Storytime
+user_class_symbol	lib/storytime.rb	/^    def user_class_symbol$/;"	f	class:Storytime
+user_class_underscore	lib/storytime.rb	/^    def user_class_underscore$/;"	f	class:Storytime
+user_class_underscore_all	lib/storytime.rb	/^    def user_class_underscore_all$/;"	f	class:Storytime
+version	lib/storytime/cli.rb	/^    def version$/;"	f	class:Storytime.CLI
+view_context	lib/storytime/concerns/controller_content_for.rb	/^      def view_context$/;"	f	class:Storytime.Concerns.ControllerContentFor
+view_directory	lib/generators/storytime/views_generator.rb	/^      def view_directory(name, _target_path=nil)$/;"	f	class:Storytime.Generators.ViewPathTemplates

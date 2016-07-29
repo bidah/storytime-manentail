@@ -1,16 +1,36 @@
+
+<div class='wrapper-menu'>
+  <ul id='menu'>
+    <li>
+      <a href="#">primer menu</a>
+    </li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
+
+<div class="bg-header-post">
+</div>
+<div class="header-title">
+   <h2 class="h2-post"><%= @post.title %></h2>
+</div>
 <div class="container">
   <% if params[:preview] %>
     <div class="alert alert-info" role="alert">Currently viewing a preview of "<%= @post.title %>".</div>
   <% end %>
   
-  <div class="row">
-    <div class="col-md-12">
-      <h2><%= @post.title %></h2>
-    </div>
-  </div>
+  <%# <div class="row"> %>
+  <%#   <div class="col-md-12"> %>
+  <%#     <1%# <h2 class="h2-post"><%= @post.title %2></h2> %1> %>
+  <%#   </div> %>
+  <%# </div> %>
   <div class="row">
     <div class="col-md-12">
       <%= @post.content.html_safe %>
+      <% console %>
 
       <p><%= render 'storytime/blogs/tags', post: @post %></p>
     </div>
