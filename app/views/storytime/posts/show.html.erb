@@ -13,7 +13,12 @@
 </div>
 
 <div class="bg-header-post">
+<%= link_to '/' do %>
+  <%= image_tag "logo-manentail@2x.png", class: 'logo-menu' %>
+<% end %>
 </div>
+
+
 <div class="header-title" style="background-image: url('<%= @post.featured_media.file.url %>')">
    <h2 class="h2-post"><%= @post.title %></h2>
 </div>
@@ -28,13 +33,12 @@
   <%#   </div> %>
   <%# </div> %>
   <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-12 post-body">
       <%= @post.content.html_safe %>
-      <% console %>
 
-      <p><%= render 'storytime/blogs/tags', post: @post %></p>
+      <%# <p><%= render 'storytime/blogs/tags', post: @post %1></p> %>
     </div>
   </div>
 
-  <%= render_comments if @post.show_comments? && !@post.preview %>
+  <%# <%= render_comments if @post.show_comments? && !@post.preview %1> %>
 </div>
